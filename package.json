@@ -40,7 +40,7 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
-    "electron-store": "^5.1.1",
+    "electron-store": "github:rsm23/electron-store-1",
     "lodash": "^4.17.15"
   }
 }
